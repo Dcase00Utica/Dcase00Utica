@@ -1,14 +1,12 @@
 # Hello, I'm Derek Case
 
-<a href="https://www.linkedin.com/in/philip-king-06a6036/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Cybersecurity Student
 
 
 ## Objective
-
-Experienced Software Design Engineer with a demonstrated history of working in the Information Technology & Services industry.
 
 
 ## Skills
