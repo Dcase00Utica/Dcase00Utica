@@ -8,7 +8,7 @@ Cybersecurity Student
 
 ## Objective
 
-Amateur in the Cybersecuirty field
+Amateur in the Cybersecurity field
 
 ## Skills
 
