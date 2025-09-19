@@ -13,21 +13,13 @@ Amateur in the Cybersecuirty field
 ## Skills
 
 
-
-| Skill                                         | Associated Project         |
-
-|-----------------------------------------------|----------------------------|
-
-
-
 ## Tools
+
 
 
 ## Certifications
 
 
 
-
 ## Projects
 
-- 
