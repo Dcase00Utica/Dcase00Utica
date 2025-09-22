@@ -23,4 +23,4 @@ Amateur in the Cybersecurity field
 
 ## Projects
 - <a href="https://github.com/Dcase00Utica/Project-1">This is a copy of test 2</a>
--<a href="https://github.com/revanced">This is a copy of revanced manager</a>
+- <a href="https://github.com/revanced">This is a copy of revanced manager</a>
